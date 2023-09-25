@@ -1,3 +1,5 @@
+https://github.com/nuxt/nuxt/issues/22373
+
 # Nuxt 3 Minimal Starter
 
 Tech stack: Nuxt 3, TailwindCSS, Knex/MySQL.
